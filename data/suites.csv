@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","118972","Doctor: doctor002 joins room 6823115a3eb3ec16b0bb2245","","Thu May 15 05:30:51 UTC 2025","passed","Thu May 15 05:32:50 UTC 2025","","doctors.spec.ts","",""
-"","102470","Doctor: doctor001 joins room 6823114c3eb3ec16b0bb223f","","Thu May 15 05:30:51 UTC 2025","passed","Thu May 15 05:32:33 UTC 2025","","doctors.spec.ts","",""
+"","99532","Doctor: doctor001 joins room 6823114c3eb3ec16b0bb223f","","Thu May 15 07:46:10 UTC 2025","passed","Thu May 15 07:47:49 UTC 2025","","doctors.spec.ts","",""
+"","100101","Doctor: doctor002 joins room 6823115a3eb3ec16b0bb2245","","Thu May 15 07:46:10 UTC 2025","passed","Thu May 15 07:47:50 UTC 2025","","doctors.spec.ts","",""

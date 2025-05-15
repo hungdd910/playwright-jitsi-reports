@@ -1,0 +1,34 @@
+[doctor] Error: page.waitForTimeout: Target page, context or browser has been closed
+    at joinRoom (/Users/hungdam/git/jitsi/playwright-jisti-github/tests/utils.ts:99:20)
+    at /Users/hungdam/git/jitsi/playwright-jisti-github/tests/doctors.spec.ts:44:9 {
+  [Symbol(step)]: {
+    stepId: 'pw:api@15',
+    location: {
+      file: '/Users/hungdam/git/jitsi/playwright-jisti-github/tests/utils.ts',
+      line: 99,
+      column: 20,
+      function: 'joinRoom'
+    },
+    category: 'pw:api',
+    title: 'page.waitForTimeout',
+    apiName: 'page.waitForTimeout',
+    params: { timeout: 80000 },
+    boxedStack: undefined,
+    steps: [],
+    attachmentIndices: [],
+    info: TestStepInfoImpl {
+      annotations: [],
+      _testInfo: [TestInfoImpl],
+      _stepId: 'pw:api@15'
+    },
+    complete: [Function: complete],
+    endWallTime: 1747295113684,
+    error: {
+      message: 'Error: page.waitForTimeout: Target page, context or browser has been closed',
+      stack: 'Error: page.waitForTimeout: Target page, context or browser has been closed\n' +
+        '    at joinRoom (/Users/hungdam/git/jitsi/playwright-jisti-github/tests/utils.ts:99:20)\n' +
+        '    at /Users/hungdam/git/jitsi/playwright-jisti-github/tests/doctors.spec.ts:44:9',
+      cause: undefined
+    }
+  }
+}
