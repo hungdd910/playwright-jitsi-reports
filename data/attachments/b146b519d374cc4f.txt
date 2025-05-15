@@ -1,0 +1,6 @@
+[doctor] Joining room as doctor002 with URL: https://meet.mp-dev.breeseed.com/****?jwt=***
+[doctor] Entering name: doctor002
+[doctor] Clicked join button
+[doctor] Disabled audio
+[doctor] Staying in the room for 80 seconds...
+[doctor] Leaving room and closing browser...

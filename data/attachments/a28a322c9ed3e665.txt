@@ -1,0 +1,145 @@
+[doctor] Joining room as doctor001 with URL: https://meet.mp-dev.breeseed.com/6823114c3eb3ec16b0bb223f?jwt=***
+[doctor] (TIME) index.html loaded:	 807.5
+[doctor] 2025-05-15T03:33:59.422Z [modules/statistics/LocalStatsCollector.js] <fi.connectAudioContext>:  Connecting audio context
+[doctor] 2025-05-15T03:33:59.753Z [modules/RTC/RTCUtils.js] <br._onMediaDevicesListChanged>:  list of media devices has changed: [InputDeviceInfo, InputDeviceInfo, InputDeviceInfo, InputDeviceInfo, InputDeviceInfo, MediaDeviceInfo, MediaDeviceInfo, MediaDeviceInfo]
+[doctor] 2025-05-15T03:34:06.983Z [features/base/redux] <Object.persistState>:  redux state persisted. 99914b932bd37a50b983c5e7c90ae93b -> d89ed438f5eff5fdcd6ab57ff40f1395
+[doctor] 2025-05-15T03:34:06.994Z [modules/UI/videolayout/VideoLayout.js] <Object.updateLargeVideo>:  Ignoring large video update with user id local: large video not initialized yet!
+[doctor] 2025-05-15T03:34:07.000Z [JitsiMeetJS.ts] <Object.init>:  This appears to be chrome, ver: 136.0.0.0
+[doctor] 2025-05-15T03:34:07.001Z [modules/RTC/RTCUtils.js] <br.init>:  Disable AP: false
+[doctor] 2025-05-15T03:34:07.001Z [modules/RTC/RTCUtils.js] <br.init>:  Stereo: false
+[doctor] 2025-05-15T03:34:07.001Z [modules/connectivity/NetworkInfo.js] <br.updateNetworkInfo>:  updateNetworkInfo {isOnline: true}
+[doctor] 2025-05-15T03:34:07.002Z [features/base/lib-jitsi-meet] lib-jitsi-meet version:178f9bbf
+[doctor] 2025-05-15T03:34:07.003Z [features/base/media] Start muted: 
+[doctor] 2025-05-15T03:34:07.003Z [features/base/media] Start audio only set to false
+[doctor] 2025-05-15T03:34:07.003Z [modules/statistics/AnalyticsAdapter.js] <Object.dispose>:  Disposing of analytics adapter.
+[doctor] 2025-05-15T03:34:07.003Z [features/analytics] Initialized 0 analytics handlers
+[doctor] 2025-05-15T03:34:07.041Z [index.web] <HTMLDocument.<anonymous>>:  (TIME) document ready:	 13673.399999976158
+[doctor] 2025-05-15T03:34:07.053Z [modules/RTC/RTCUtils.js] Available devices:  [InputDeviceInfo, InputDeviceInfo, InputDeviceInfo, InputDeviceInfo, InputDeviceInfo, MediaDeviceInfo, MediaDeviceInfo, MediaDeviceInfo]
+[doctor] 2025-05-15T03:34:07.057Z [features/base/devices] <Ge>:  Ignored devices on device list changed::
+audioInput:
+		Microsoft Teams Audio Device (Virtual)[18dc2cf4c8aa4998981ce99e76231f2a71823d29a5b6968c5df1ccead05b681c]
+audioOutput:
+		Microsoft Teams Audio Device (Virtual)[18dc2cf4c8aa4998981ce99e76231f2a71823d29a5b6968c5df1ccead05b681c]
+videoInput:
+
+[doctor] 2025-05-15T03:34:07.057Z [features/base/devices] <Ge>:  Device list updated:
+audioInput:
+		Default - MacBook Air Microphone (Built-in)[default]
+		MacBook Air Microphone (Built-in)[4a787445f6a1af5bafe4d6c439586ec65eccbebc1e6466385f52f4e32bae5d81]
+audioOutput:
+		Default - MacBook Air Speakers (Built-in)[default]
+		MacBook Air Speakers (Built-in)[e17ebb06f2ee5eb8648ce5545fa0095857123c020598835cd43a231a0149fc91]
+videoInput:
+		FaceTime HD Camera (5B00:3AA6)[f27d5877358a85c99189f5dee4f0f00edb5d6c1e2a23dc548ed0e35c495b79ba]
+		OBS Virtual Camera[e16fecabe5e3b781f6efad3007ed212076071006de2e692538197d5e873169fc]
+[doctor] 2025-05-15T03:34:07.060Z [features/base/devices] <Ye>:  setAudioOutputDevice: undefined[default]
+[doctor] 2025-05-15T03:34:07.066Z [modules/RTC/RTCUtils.js] Audio output device set to default
+[doctor] 2025-05-15T03:34:07.073Z [modules/RTC/RTCUtils.js] <br.<anonymous>>:  Got media constraints:  {"video":{"height":{"ideal":720},"width":{"ideal":1280},"facingMode":"user"},"audio":{"autoGainControl":true,"echoCancellation":true,"noiseSuppression":true}}
+[doctor] Service worker registered. ServiceWorkerRegistration
+[doctor] 2025-05-15T03:34:08.685Z [modules/RTC/RTCUtils.js] onUserMediaSuccess
+[doctor] 2025-05-15T03:34:08.686Z [modules/RTC/JitsiLocalTrack.js] <rc._setStream>:  Setting new MSID: de726953-b76b-43f4-a878-f831097b7f56 b3d3d92f-4c19-44ba-892c-f20710962e32 on LocalTrack[undefined,audio]
+[doctor] 2025-05-15T03:34:08.687Z [modules/RTC/JitsiLocalTrack.js] <rc._setStream>:  Setting new MSID: cd8a1e83-8296-461c-9b5b-cbc776785e1f 450f1012-f347-42e4-bfcc-27017d71affa on LocalTrack[undefined,video]
+[doctor] 2025-05-15T03:34:08.700Z [features/base/settings] switched local audio input device to: default
+[doctor] 2025-05-15T03:34:08.703Z [features/base/settings] switched local video device to: f27d5877358a85c99189f5dee4f0f00edb5d6c1e2a23dc548ed0e35c495b79ba
+[doctor] Entering name: doctor001
+[doctor] 2025-05-15T03:34:08.901Z [features/base/connection] Using service URL wss://meet.mp-dev.breeseed.com/xmpp-websocket
+[doctor] 2025-05-15T03:34:08.902Z [modules/xmpp/moderator.js] <new Bo>:  Using xmpp for conference requests.
+[doctor] 2025-05-15T03:34:08.904Z [modules/xmpp/xmpp.js] <Ra._initStrophePlugins>:  P2P STUN servers:  [Object]
+[doctor] 2025-05-15T03:34:08.908Z [modules/xmpp/xmpp.js] <Ra.initFeaturesList>:  Source-name signaling is enabled
+[doctor] 2025-05-15T03:34:08.910Z [modules/xmpp/xmpp.js] <Ra.initFeaturesList>:  Receiving multiple video streams is enabled
+[doctor] 2025-05-15T03:34:08.914Z [modules/xmpp/xmpp.js] <Ra.connectionHandler>:  (TIME) Strophe connecting:	 15545.299999952316
+[doctor] Clicked join button
+[doctor] 2025-05-15T03:34:08.980Z [features/base/redux] <Object.persistState>:  redux state persisted. d89ed438f5eff5fdcd6ab57ff40f1395 -> 51f48ec81bc08fb374dd757739dcbdf3
+[doctor] 2025-05-15T03:34:09.822Z [modules/xmpp/XmppConnection.js] <Oo._maybeEnableStreamResume>:  Enabling XEP-0198 stream management
+[doctor] 2025-05-15T03:34:09.822Z [modules/xmpp/XmppConnection.js] <Oo._maybeStartWSKeepAlive>:  WebSocket keep alive interval: 60000ms
+[doctor] 2025-05-15T03:34:09.822Z [modules/xmpp/XmppConnection.js] <Oo._maybeStartWSKeepAlive>:  Scheduling next WebSocket keep-alive in 107291.65808617594ms
+[doctor] 2025-05-15T03:34:09.822Z [modules/xmpp/strophe.ping.js] <Po.startInterval>:  XMPP pings will be sent every 10000 ms
+[doctor] 2025-05-15T03:34:09.822Z [modules/xmpp/xmpp.js] <Ra.connectionHandler>:  (TIME) Strophe connected:	 16454.200000047684
+[doctor] 2025-05-15T03:34:09.825Z [modules/xmpp/xmpp.js] <Ra.connectionHandler>:  My Jabber ID: aw2tisnlwxhqtkyne8dar5dh@meet.jitsi/zI9E1fd9msBP
+[doctor] 2025-05-15T03:34:09.839Z [modules/RTC/CodecSelection.js] <new Oa>:  Codec preference order for jvb connection is vp9,vp8,h264
+[doctor] 2025-05-15T03:34:09.839Z [modules/RTC/CodecSelection.js] <new Oa>:  Codec preference order for p2p connection is vp9,vp8,h264,av1
+[doctor] 2025-05-15T03:34:09.840Z [modules/settings/Settings.js] generated stats id Kariane-Jsz
+[doctor] 2025-05-15T03:34:09.840Z [modules/xmpp/xmpp.js] <Ra.createRoom>:  JID aw2tisnlwxhqtkyne8dar5dh@meet.jitsi/zI9E1fd9msBP using MUC nickname cef71043
+[doctor] 2025-05-15T03:34:09.841Z [modules/xmpp/ChatRoom.js] <new ps>:  Joining MUC as 6823114c3eb3ec16b0bb223f@muc.meet.jitsi/cef71043
+[doctor] 2025-05-15T03:34:09.843Z [modules/statistics/AvgRTPStatsReporter.js] <new mh>:  Avg RTP stats will be calculated every 15 samples
+[doctor] 2025-05-15T03:34:09.844Z [JitsiConference.js] <new qh>:  backToP2PDelay: 5
+[doctor] 2025-05-15T03:34:09.844Z [modules/videosipgw/VideoSIPGW.js] <new Fh>:  creating VideoSIPGW
+[doctor] 2025-05-15T03:34:09.844Z [JitsiConference.js] <new qh>:  End-to-End Encryption is supported
+[doctor] 2025-05-15T03:34:09.978Z [modules/e2ee/OlmAdapter.js] <Zr._bootstrapOlm>:  Initializing Olm...
+[doctor] 2025-05-15T03:34:09.978Z [modules/util/TaskQueue.js] <ht._executeNext>:  Executing a task.
+[doctor] 2025-05-15T03:34:09.978Z [modules/util/TaskQueue.js] <ht._onTaskComplete>:  Task completed.
+[doctor] 2025-05-15T03:34:09.978Z [conference.js] _setLocalAudioVideoStreams is calling useVideoStream with track: LocalTrack[2,video]
+[doctor] 2025-05-15T03:34:09.978Z [conference.js] <Object.useVideoStream>:  useVideoStream: LocalTrack[2,video]
+[doctor] 2025-05-15T03:34:09.978Z [modules/util/TaskQueue.js] <ht._executeNext>:  Executing a task.
+[doctor] 2025-05-15T03:34:09.978Z [conference.js] <ht._currentTask>:  useVideoStream: Replacing LocalTrack[2,video] with LocalTrack[2,video]
+[doctor] 2025-05-15T03:34:09.979Z [modules/util/TaskQueue.js] <ht._onTaskComplete>:  Task completed.
+[doctor] 2025-05-15T03:34:09.979Z [JitsiConference.js] <qh._doReplaceTrack>:  _doReplaceTrack - no JVB JingleSession
+[doctor] 2025-05-15T03:34:09.979Z [JitsiConference.js] <qh._doReplaceTrack>:  _doReplaceTrack - no P2P JingleSession
+[doctor] 2025-05-15T03:34:09.980Z [JitsiConference.js] <qh._doReplaceTrack>:  _doReplaceTrack - no JVB JingleSession
+[doctor] 2025-05-15T03:34:09.980Z [JitsiConference.js] <qh._doReplaceTrack>:  _doReplaceTrack - no P2P JingleSession
+[doctor] 2025-05-15T03:34:09.986Z [modules/xmpp/moderator.js] Sending conference request over XMPP to focus.meet.jitsi
+[doctor] 2025-05-15T03:34:09.986Z [modules/settings/Settings.js] generated id 766c1613f0377d7c20bbc34df9ae5c52
+[doctor] 2025-05-15T03:34:09.988Z [modules/e2ee/OlmAdapter.js] <Zr._bootstrapOlm>:  Olm 3.2.3 initialized
+[doctor] 2025-05-15T03:34:09.988Z [modules/e2ee/OlmAdapter.js] <Zr._onIdKeysReady>:  Olm id key ready: [object Object]
+[doctor] 2025-05-15T03:34:09.989Z [conference.js] Initialized with 2 local tracks
+[doctor] 2025-05-15T03:34:09.997Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"fair","time":16621.700000047684}]
+[doctor] 2025-05-15T03:34:10.200Z [modules/xmpp/strophe.jingle.js] getting turn credentials with extdisco:2 failed, trying extdisco:1
+[doctor] 2025-05-15T03:34:10.205Z [modules/xmpp/moderator.js] <Bo._handleSuccess>:  Adding focus JID: focus@auth.meet.jitsi
+[doctor] 2025-05-15T03:34:10.205Z [modules/xmpp/moderator.js] <Bo._handleSuccess>:  Authentication enabled: true
+[doctor] 2025-05-15T03:34:10.206Z [modules/xmpp/moderator.js] <Bo._handleSuccess>:  Received sessionId: 1d4d7d97-94a8-40b5-bf09-ac57d217546d
+[doctor] 2025-05-15T03:34:10.210Z [modules/xmpp/moderator.js] <Bo._handleSuccess>:  Sip gateway enabled: undefined
+[doctor] 2025-05-15T03:34:10.210Z [modules/xmpp/moderator.js] <Bo._handleSuccess>:  Conference-request successful, ready to join the MUC.
+[doctor] 2025-05-15T03:34:10.288Z [modules/UI/videolayout/LargeVideoManager.js] Scheduled large video update for cef71043
+[doctor] 2025-05-15T03:34:10.288Z [modules/UI/videolayout/VideoContainer.js] <XO.setStream>:  Attaching a remote track to the large video for user cef71043
+[doctor] 2025-05-15T03:34:10.291Z [modules/UI/videolayout/LargeVideoManager.js] scheduleLargeVideoUpdate: Remote track LocalTrack[2,video], isVideoMuted=false, streamingStatusActive=false, isVideoRenderable=true, showAvatar=false
+[doctor] 2025-05-15T03:34:10.313Z [modules/UI/videolayout/VideoContainer.js] <HTMLVideoElement.<anonymous>>:  canplaythrough handler was called for the large video.
+[doctor] 2025-05-15T03:34:10.314Z [modules/xmpp/strophe.jingle.js] getting turn credentials failed
+[doctor] 2025-05-15T03:34:10.315Z [modules/xmpp/strophe.jingle.js] is mod_turncredentials or similar installed and configured?
+[doctor] 2025-05-15T03:34:10.315Z [modules/UI/videolayout/VideoContainer.js] <XO.video.onplaying>:  Large video is playing!
+[doctor] 2025-05-15T03:34:10.328Z [modules/xmpp/ChatRoom.js] <ps.onPresence>:  (TIME) MUC join started:	 16959.899999976158
+[doctor] 2025-05-15T03:34:10.348Z [modules/xmpp/ChatRoom.js] <ps.onPresence>:  entered 6823114c3eb3ec16b0bb223f@muc.meet.jitsi/focus {isReplaceParticipant: 0, affiliation: owner, role: moderator, jid: focus@auth.meet.jitsi/focus, isFocus: true}
+[doctor] 2025-05-15T03:34:10.349Z [modules/version/ComponentsVersions.js] Got focus version: 1.0.1066
+[doctor] 2025-05-15T03:34:10.350Z [JitsiConference.js] <qh._updateProperties>:  Audio unmute permissions set by Jicofo to false
+[doctor] 2025-05-15T03:34:10.351Z [JitsiConference.js] <qh._updateProperties>:  Video unmute permissions set by Jicofo to false
+[doctor] 2025-05-15T03:34:10.351Z [JitsiConference.js] <qh._shouldBeInP2PMode>:  P2P? peerCount: 0, hasBotPeer: false => false
+[doctor] 2025-05-15T03:34:10.351Z [modules/xmpp/ChatRoom.js] <ps.onPresence>:  Jicofo supports restart by terminate: true
+[doctor] 2025-05-15T03:34:10.353Z [conference.js] <ti.<anonymous>>:  My role changed, new role: none
+[doctor] 2025-05-15T03:34:10.355Z [modules/xmpp/ChatRoom.js] <ps.onPresence>:  (TIME) MUC joined:	 16987.5
+[doctor] 2025-05-15T03:34:10.368Z [JitsiConference.js] <qh._shouldBeInP2PMode>:  P2P? peerCount: 0, hasBotPeer: false => false
+[doctor] 2025-05-15T03:34:10.377Z [modules/xmpp/ChatRoom.js] <ps.onMessage>:  Subject is changed to 
+[doctor] 2025-05-15T03:34:10.384Z [conference.js] <ti.<anonymous>>:  My role changed, new role: moderator
+[doctor] 2025-05-15T03:34:10.394Z [features/base/conference] Error while requesting wake lock for screen: NotAllowedError: Wake Lock permission request denied
+[doctor] 2025-05-15T03:34:10.450Z [modules/RTC/RTCUtils.js] <br.<anonymous>>:  Got media constraints:  {"video":false,"audio":{"autoGainControl":true,"deviceId":"default","echoCancellation":true,"noiseSuppression":true}}
+[doctor] 2025-05-15T03:34:10.592Z [modules/UI/videolayout/LargeVideoManager.js] Scheduled large video update for cef71043
+[doctor] 2025-05-15T03:34:10.592Z [modules/UI/videolayout/VideoContainer.js] <XO.setStream>:  SetStream on the large video for user cef71043 ignored: the stream is not changed!
+[doctor] 2025-05-15T03:34:10.592Z [modules/UI/videolayout/LargeVideoManager.js] scheduleLargeVideoUpdate: Remote track LocalTrack[2,video], isVideoMuted=false, streamingStatusActive=false, isVideoRenderable=true, showAvatar=false
+[doctor] 2025-05-15T03:34:10.600Z [modules/RTC/RTCUtils.js] onUserMediaSuccess
+[doctor] 2025-05-15T03:34:10.600Z [modules/RTC/JitsiLocalTrack.js] <rc._setStream>:  Setting new MSID: b8e365bc-6170-4237-a8cd-8e5c370865c6 7ec8ed7a-c8b4-4f9b-aabb-0d275adcca8d on LocalTrack[undefined,audio]
+[doctor] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet)
+[doctor] 2025-05-15T03:34:10.603Z [modules/detection/VADAudioAnalyser.js] Created VAD emitter for track:  Default - MacBook Air Microphone (Built-in)
+[doctor] 2025-05-15T03:34:10.991Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"nominal","time":17622.600000023842}]
+[doctor] 2025-05-15T03:34:14.037Z [modules/RTC/JitsiLocalTrack.js] Mute LocalTrack[1,audio]: true
+[doctor] 2025-05-15T03:34:14.037Z [modules/xmpp/SignalingLayerImpl.js] <Uh.setTrackMuteStatus>:  Mute state of cef71043-a0 changed to muted=true
+[doctor] 2025-05-15T03:34:14.038Z [JitsiConference.js] <qh._setTrackMuteStatus>:  Mute state of LocalTrack[1,audio] changed to muted=true
+[doctor] Disabled audio
+[doctor] Staying in the room for 80 seconds...
+[doctor] 2025-05-15T03:34:22.998Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"fair","time":29630}]
+[doctor] 2025-05-15T03:34:24.000Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"serious","time":30631.899999976158}]
+[doctor] 2025-05-15T03:34:26.001Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"nominal","time":32632.700000047684}]
+[doctor] 2025-05-15T03:34:58.028Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"serious","time":64660.299999952316}]
+[doctor] 2025-05-15T03:34:59.029Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"fair","time":65661.39999997616}]
+[doctor] 2025-05-15T03:35:00.030Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"nominal","time":66662.39999997616}]
+[doctor] 2025-05-15T03:35:01.031Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"fair","time":67662.89999997616}]
+[doctor] 2025-05-15T03:35:02.040Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"nominal","time":68671.20000004768}]
+[doctor] 2025-05-15T03:35:04.033Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"fair","time":70664.89999997616}]
+[doctor] 2025-05-15T03:35:05.033Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"nominal","time":71665.79999995232}]
+[doctor] 2025-05-15T03:35:11.038Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"serious","time":77670}]
+[doctor] 2025-05-15T03:35:14.040Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"fair","time":80672.39999997616}]
+[doctor] 2025-05-15T03:35:17.045Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"nominal","time":83677.70000004768}]
+[doctor] 2025-05-15T03:35:21.048Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"fair","time":87679.79999995232}]
+[doctor] 2025-05-15T03:35:22.048Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"nominal","time":88680.70000004768}]
+[doctor] 2025-05-15T03:35:23.050Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"fair","time":89682.29999995232}]
+[doctor] 2025-05-15T03:35:26.050Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"serious","time":92682.60000002384}]
+[doctor] 2025-05-15T03:35:27.051Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"fair","time":93683.60000002384}]
+[doctor] 2025-05-15T03:35:28.053Z [features/base/app] <PressureObserver.<anonymous>>:  Compute pressure state changed: [{"source":"cpu","state":"nominal","time":94684.89999997616}]
+[doctor] Leaving room and closing browser...
