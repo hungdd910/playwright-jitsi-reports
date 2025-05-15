@@ -1,0 +1,6 @@
+[doctor] Joining room as doctor012 with URL: https://meet.mp-dev.breeseed.com/682311e33eb3ec16b0bb2281?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJQcmFjdGl0aW9uZXIgY2FsbCB3aXRoIHBhdGllbnQiLCJpYXQiOjE3NDcyNzU2MzksImF1ZCI6WyJtZHBfYXBwX2RldiJdLCJpc3MiOiJtZHBfYXBwX2RldiIsInJvb20iOiI2ODIzMTFlMzNlYjNlYzE2YjBiYjIyODEiLCJjb250ZXh0Ijp7Im1vZGVyYXRvciI6dHJ1ZSwidXNlciI6eyJuYW1lIjoiRG9jdG9yIDAxMiIsImlkIjoiNjgyMzExZDlhZjY3ZmM1ZDg1MTQ3ZTQ0In19LCJleHAiOjE3NDczMTE2Mzl9.QdN9jUDnLQQx_BQ_T9XzA17Wz_ZqmcHAriybsFMiSY0
+[doctor] Entering name: doctor012
+[doctor] Clicked join button
+[doctor] Disabled audio
+[doctor] Staying in the room for 80 seconds...
+[doctor] Leaving room and closing browser...
