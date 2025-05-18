@@ -1,0 +1,6 @@
+[patient] Joining room as patient001 with URL: https://meet-pre-mindcare.breeseed.com/6823114c3eb3ec16b0bb223f
+[patient] Entering name: patient001
+[patient] Clicked join button
+[patient] Disabled audio
+[patient] Staying in the room for 60 seconds...
+[patient] Leaving room and closing browser...

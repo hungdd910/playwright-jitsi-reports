@@ -1,0 +1,3 @@
+[doctor] Joining room as doctor004 with URL: https://meet-pre-mindcare.breeseed.com/682311753eb3ec16b0bb2251?jwt=***
+[doctor] Entering name: doctor004
+[doctor] Clicked join button
