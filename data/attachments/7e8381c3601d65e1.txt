@@ -1,0 +1,6 @@
+[doctor] Joining room as doctor004 with URL: https://meet-pre-mindcare.breeseed.com//6824cc3608691a1189e8edcb?jwt=***
+[doctor] Entering name: doctor004
+[doctor] Clicked join button
+[doctor] Disabled audio
+[doctor] Staying in the room for 330 seconds...
+[doctor] Leaving room and closing browser...
